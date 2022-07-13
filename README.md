@@ -1,1 +1,1 @@
-Implenetation of Stacks Queues in CProgramming
+Implenetation of Stacks and Queues in C Programming
